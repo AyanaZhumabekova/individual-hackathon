@@ -1,0 +1,70 @@
+.Zoom {
+  display: flex;
+  justify-content: center;
+}
+.zoom {
+  width: 100%;
+  height: 1000px;
+  position: relative;
+  overflow: hidden;
+  background: url("../assets/bg.jpg");
+  background-size: cover;
+}
+
+.zoom:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 200px;
+  z-index: 1000;
+  background: linear-gradient(transparent, rgb(233, 224, 224));
+}
+.zoom #layer1 {
+  position: absolute;
+  left: 0.1%;
+  width: 100%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+.zoom #layer2 {
+  position: absolute;
+  right: 0;
+  width: 100%;
+  z-index: 9;
+}
+.zoom #text {
+  position: absolute;
+  top: 40vh;
+  right: 0;
+  width: 100%;
+  transform: translateY(10%);
+}
+
+.content {
+  padding: 100px;
+  box-sizing: border-box;
+  font-family: consolas;
+  bottom: -20vh;
+}
+
+.content h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 4em;
+}
+.content p {
+  font-size: 1.2em;
+}
+
+h3 {
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  font: 1.3rem;
+  text-align: center;
+}
+.text-box {
+  padding: 2rem 1rem;
+
+  bottom: -80vh;
+}

@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "name": "Boxers",
+      "description": "Comfy",
+      "price": 1200,
+      "picture": "http://www.johnfrank.co/Uploads/UrunResimleri/buyuk/john-frank-dijital-baskili-boxer-multico-355e.jpg",
+      "type": "underwear",
+      "id": 7
+    },
+    {
+      "name": " Trunk",
+      "description": "Penguin",
+      "price": 2800,
+      "picture": "https://www.johnfrank.co/Uploads/UrunResimleri/Thumb/john-frank-penguen-deniz-sortu-a4c155.jpg",
+      "type": "trunks",
+      "id": 10
+    },
+    {
+      "name": "Boxer",
+      "description": "Comics",
+      "price": 1200,
+      "picture": "https://m.media-amazon.com/images/I/71vpi12Na4L._AC_UY879_.jpg",
+      "type": "underwear",
+      "id": 11
+    },
+    {
+      "name": "Underwear",
+      "description": "Donuts",
+      "price": 1200,
+      "picture": "http://www.johnfrank.co/Uploads/UrunResimleri/buyuk/john-frank-dijital-baskili-boxer-multico-0f5d.jpg",
+      "type": "underwear",
+      "id": 12
+    },
+    {
+      "name": "Socks",
+      "description": "Pizza",
+      "price": "500",
+      "picture": "http://www.johnfrank.co/Uploads/UrunResimleri/buyuk/john-frank-fun-socks-19w-uzun-corap-mult-d70e.jpg",
+      "type": "socks",
+      "id": 13
+    },
+    {
+      "name": "Socks",
+      "description": "Lips",
+      "price": 240,
+      "picture": "https://cdn.shopify.com/s/files/1/0564/1817/3092/products/john-frank-dskili-boxer-multi-0b3-64copy.jpg?v=1619889021",
+      "type": "socks",
+      "id": 14
+    },
+    {
+      "name": "T-shirt",
+      "description": "S,M,L,XL",
+      "price": 1800,
+      "picture": "https://www.johnfrank.co/Uploads/UrunResimleri/buyuk/john-frank-baskili-dijital-t-shirt-mul-559939.jpg",
+      "type": "t-shirts",
+      "id": 15
+    },
+    {
+      "name": "kkkkkkkkkkkkkkkkkk",
+      "description": "fwe",
+      "price": null,
+      "picture": "few",
+      "type": "fd2",
+      "id": 16
+    }
+  ]
+}
